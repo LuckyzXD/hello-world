@@ -170,7 +170,7 @@ img.andre {
 	float:right;
 margin-right: 100px;}
 
-h3 {
+h3.andresnap {
 	text-align:right;
 	margin-right: 175px;
 }
@@ -178,4 +178,13 @@ img.snap{
 	float:right;
 	margin-right: 100px;
 }
-	
+
+h3.timmysnap{
+	text-align:left;
+	margin-left: 175px;
+}
+img.snap2{
+	float:right;
+	margin-right: 100px;
+}
+
