@@ -172,22 +172,11 @@ margin-right: 100px;}
 
 h3.andresnap {
 	text-align:right;
-	margin-right: 175px;
-}
-img.snap{
-	float:right;
-	margin-right: 100px;
+	margin-right: 150px;
 }
 
 h3.timmysnap{
 	text-align:left;
-	margin-left: 175px;
-}
-img.snap2{
-	float:left;
-	margin-leftt: 100px;
+	margin-left: 150px;
 }
 
-td.snapchatgrabbar{
-	margin:100px;
-}
