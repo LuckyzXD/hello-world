@@ -20,6 +20,7 @@ header {
 article{
 	border: 2px black solid;
 	margin: 100px;
+	margin-bottom: 50px;
 }
 
 li.navbar {
