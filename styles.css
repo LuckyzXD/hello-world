@@ -176,5 +176,6 @@ h3 {
 }
 img.snap{
 	float:right;
-	margin-right: 150px;
+	margin-right: 100px;
+	margin-bottom: 25px;
 }
